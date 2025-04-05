@@ -12,15 +12,16 @@ AWS Certified: Cloud Practitioner (CLF-C02) Study Materials
 - AWS Shared Responsibility Model
 
 ## Week 2: AWS Core Services Overview
-- Compute (EC2, Lambda, Elastic Beanstalk)
-- Storage (S3, EBS, EFS)
-- Databases (RDS, DynamoDB)
-- Networking (VPC, Route 53, CloudFront)
+- Compute (EC2, Elastic Beanstalk, Batch, etc)
+- Storage (S3, EBS, EFS, FSx, Backup, etc)
+- Databases (RDS, Aurora, DynamoDB, Redis, etc)
+- Networking (VPC, Route 53, CloudFront, API Gateway, etc)
+- Serverless (Fargate, lambda, etc)
 
 ## Week 3: AWS Security & Compliance
-- IAM (Users, Roles, Policies, MFA)
+- IAM (Users, Roles, Policies, etc)
 - AWS Organizations & Control Tower
-- Security Services (KMS, Shield, WAF, Inspector)
+- Security Services (KMS, Shield, WAF, Inspector, etc)
 - Compliance & AWS Well-Architected Framework
 
 ## Week 4: AWS Pricing, Billing & Support
@@ -38,6 +39,12 @@ AWS Certified: Cloud Practitioner (CLF-C02) Study Materials
 ## Week 6: Hands-On & Exam Preparation
 - Setting Up an AWS Free Tier Account
 - Practicing with AWS Management Console
-- AWS SkillBuilder Lab
+- AWS SkillBuilder Practitioner Labs
 - Reviewing Sample Questions & Exam Strategy
 - Mock Exams & Final Review
+
+## References 
+- [CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [AWS-Educate](https://aws.amazon.com/education/awseducate/)
+- [CLF-Essential](https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials)
+- [Cloud-Quest](https://explore.skillbuilder.aws/learn/courses/11458/aws-cloud-quest:-cloud-practitioner)
