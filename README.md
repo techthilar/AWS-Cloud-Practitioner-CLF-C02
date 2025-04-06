@@ -50,3 +50,10 @@ AWS Certified: Cloud Practitioner (CLF-C02) Study Materials
 - AWS SkillBuilder Practitioner Labs
 - Reviewing Sample Questions & Exam Strategy
 - Mock Exams & Final Review
+
+## Study Tools
+- [Gitbook](https://app.gitbook.com/)
+- [Obsidian](https://obsidian.md/)
+- [Notion](https://obsidian.md/)
+- [Xmind](https://xmind.app/)
+- [Diagrams](https://app.diagrams.net/)
